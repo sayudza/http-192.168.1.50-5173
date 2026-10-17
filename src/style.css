@@ -6,3 +6,4 @@
 @media print{body{background:#fff}.sidebar,.topbar,.welcome-row>.generate-btn,.schedule-actions,.bottom-note,.stats-grid,.tabs{display:none!important}.main{margin:0}.content{max-width:none;padding:0}.welcome-row{margin:0 0 14px}.welcome-row .eyebrow{display:none}.schedule-card{border:0}.table-wrap{overflow:visible}table{min-width:0}td{height:75px}.lesson{print-color-adjust:exact;-webkit-print-color-adjust:exact}.schedule-head{padding:0 0 12px}.schedule-foot{border-top:1px solid #ddd}}
 
 .config-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:15px}@media(max-width:760px){.config-grid{grid-template-columns:1fr}}
+button.school-switch{font:inherit;color:inherit;text-align:left;cursor:pointer;width:100%}.cabinet-login{white-space:nowrap}@media(max-width:760px){.cabinet-login{font-size:0;width:34px;padding:0}.cabinet-login svg{width:16px;height:16px}}
